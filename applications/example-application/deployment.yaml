@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: example-application
-        image: docker.io/drpowell23/example-application:v1.0.0
+        image: docker.io/drpowell23/example-application:v1.0.7
         ports:
         - containerPort: 8080
 ---
